@@ -2,7 +2,6 @@ from math import sqrt
 
 
 def get_roots(a, b, c):
-    """ Функция для нахождения корней квадратного уравнения """
 
     discriminant = b ** 2 - 4 * a * c
 
