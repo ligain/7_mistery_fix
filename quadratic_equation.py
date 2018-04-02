@@ -6,10 +6,6 @@ def get_roots(a, b, c):
     Функция для нахождения корней
     квадратного уравнения вида:
     `a * x ** 2 + b * x + c`
-    :param a: number
-    :param b: number
-    :param c: number
-    :return: tuple
     """
     discriminant = b ** 2 - 4 * a * c
 
